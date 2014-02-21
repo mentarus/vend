@@ -1,4 +1,4 @@
-update=Thu 16 Jan 2014 21:19:46 GMT
+update=Fri 21 Feb 2014 21:24:32 GMT
 version=1
 last_client=eeschema
 [cvpcb]
@@ -102,3 +102,4 @@ LibName29=contrib
 LibName30=valves
 LibName31=libraries/Arduino
 LibName32=libraries/2803
+LibName33=libraries/5vswreg
